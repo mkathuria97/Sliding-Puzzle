@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "733500954968",
+    "firebase_url": "https://puzzle2-25447.firebaseio.com",
+    "project_id": "puzzle2-25447",
+    "storage_bucket": "puzzle2-25447.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733500954968:android:a6e422982fb9b2ed",
+        "android_client_info": {
+          "package_name": "com.mayankkathuria.puzzle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "733500954968-spi3o7mt9cbu9uk7lvr9i9u1vubepcjb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mayankkathuria.puzzle",
+            "certificate_hash": "630e90a89d536a50c37baa8ca301595d480e950c"
+          }
+        },
+        {
+          "client_id": "733500954968-scjlfo2c3k4a51jchgmefqglg4vv3olg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVTj5o0dNZ3S3g1COtq9zA3PW3aNqd-uY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "733500954968-scjlfo2c3k4a51jchgmefqglg4vv3olg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
